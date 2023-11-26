@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "nuclear-harvest": {
+      "hosting": {
+        "app": [
+          "nuclear-harvest"
+        ]
+      }
+    },
+    "app-multiplataforma-b1aa0": {
+      "hosting": {
+        "app": [
+          "app-multiplataforma-b1aa0"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "app-multiplataforma-b1aa0"
+  }
+}

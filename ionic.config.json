@@ -1,0 +1,8 @@
+{
+  "name": "App Multiplataforma",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "def2a9ed"
+}
